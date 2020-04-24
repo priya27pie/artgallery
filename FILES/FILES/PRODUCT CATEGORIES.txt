@@ -1,0 +1,68 @@
+General Product Categories:
+
+1. PHOTO TO PAINTING
+	a. Pencil Sketch
+	b. Colour Pencil Sketch
+	c. Charcoal Sketch
+	d. Caryons Drawing
+	e. Acrylic painting
+	f. Oil Painting
+
+2. DRAW PHOTOGRAGY PHOTO
+	a. Pencil Sketch
+	b. Colour Pencil Sketch
+	c. Charcoal Sketch
+	d. Caryons Drawing
+	e. Acrylic painting
+	f. Oil Painting
+
+SHOP Product Categories:
+
+1. HOME DECOR PAINTINGS
+	a. Pencil Sketch
+	b. Colour Pencil Sketch
+	c. Charcoal Sketch
+	d. Caryons Drawing
+	e. Acrylic painting
+	f. Oil Painting
+
+2. OFFICE DECOR PAINTINGS
+	a. Pencil Sketch
+	b. Colour Pencil Sketch
+	c. Charcoal Sketch
+	d. Caryons Drawing
+	e. Acrylic painting
+	f. Oil Painting
+
+3. HOTEL & RESTAURANT DECOR PAINTINGS
+	a. Pencil Sketch
+	b. Colour Pencil Sketch
+	c. Charcoal Sketch
+	d. Caryons Drawing
+	e. Acrylic painting
+	f. Oil Painting
+
+4. HOSPITAL DECOR PAINTINGS
+	a. Pencil Sketch
+	b. Colour Pencil Sketch
+	c. Charcoal Sketch
+	d. Caryons Drawing
+	e. Acrylic painting
+	f. Oil Painting
+
+5. SCHOOL/COLLEGE PAINTINGS
+	a. Pencil Sketch
+	b. Colour Pencil Sketch
+	c. Charcoal Sketch
+	d. Caryons Drawing
+	e. Acrylic painting
+	f. Oil Painting
+
+6. Premium Paintings
+	a. Pencil Sketch
+	b. Colour Pencil Sketch
+	c. Charcoal Sketch
+	d. Caryons Drawing
+	e. Acrylic painting
+	f. Oil Painting
+
